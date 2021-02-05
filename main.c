@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-int func(int* tab){
+void func(int* tab){
     tab[0] = 12;
     tab[4] = -100;
     tab[1] = 0;
